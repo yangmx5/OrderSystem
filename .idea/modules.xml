@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/service-oc/service-oc.iml" filepath="$PROJECT_DIR$/service-oc/service-oc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ordercheck/service-ordercheck.iml" filepath="$PROJECT_DIR$/service-ordercheck/service-ordercheck.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-ordersplit/service-ordersplit.iml" filepath="$PROJECT_DIR$/service-ordersplit/service-ordersplit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-waybillpush/service-waybillpush.iml" filepath="$PROJECT_DIR$/service-waybillpush/service-waybillpush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-waybillsendout/service-waybillsendout.iml" filepath="$PROJECT_DIR$/service-waybillsendout/service-waybillsendout.iml" />
+    </modules>
+  </component>
+</project>

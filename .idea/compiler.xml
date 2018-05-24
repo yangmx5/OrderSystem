@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-oc" />
+        <module name="service-ordercheck" />
+        <module name="service-ordersplit" />
+        <module name="service-waybillpush" />
+        <module name="service-waybillsendout" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service-oc" target="1.8" />
+      <module name="service-ordercheck" target="1.8" />
+      <module name="service-ordersplit" target="1.8" />
+      <module name="service-waybillpush" target="1.8" />
+      <module name="service-waybillsendout" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
